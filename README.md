@@ -6,6 +6,16 @@
 [![PyPI version](https://badge.fury.io/py/asteroid-sdk.svg)](https://badge.fury.io/py/asteroid-sdk)
 [![Downloads](https://pepy.tech/badge/asteroid-sdk)](https://pepy.tech/project/asteroid-sdk)
 
+> ❗ **Important Notice:** 
+> 
+> - **This repository is no longer actively maintained by Asteroid.**
+> - You are welcome to use it under the MIT license, but please note:
+>   - We are actively developing new updates on the [Asteroid platform](http://asteroid.ai/) and the [Asteroid SDK](https://github.com/asteroidai/asteroid-python-sdk).
+>   - For practical examples and guidance on using the SDK, please explore our [cookbook](https://github.com/asteroidai/cookbook).
+> - If you're interested in leveraging the full capabilities of Asteroid, we invite you to visit our [website](http://asteroid.ai/) and get in touch with us!
+
+
+
 Sentinel is an agent control plane built by [Asteroid](http://asteroid.ai/) that allows you to efficiently oversee thousands of agents running in parallel.
 
 🎉 New: [Inspect](https://inspect.ai-safety-institute.org.uk/) has now made approvals a native feature! Check out the Inspect example [here](examples/inspect_example/README.md).
